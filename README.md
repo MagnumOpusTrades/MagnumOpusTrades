@@ -202,14 +202,18 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 
 ## 💻 Recommended Platforms
 
-| Platform          | News   | Research | Charting | Trading | Free / Paid | Comment                                                                                   |
-|-------------------|--------|----------|----------|---------|-------------|-------------------------------------------------------------------------------------------|
-| **CNBC**          | ✔️     | ✔️       | ✔️       | ❌      | Both        | News aggregator for global markets. Paid tier isn't worth it for most users.              |
-| **Yahoo Finance** | ✔️     | ✔️       | ✔️       | ❌      | Both        | Better live charting during market hours. Covers more instruments than CNBC. Paid tier not essential. |
-| **Seeking Alpha** | ✔️     | ✔️       | ❌       | ❌      | Mostly paid | In-depth analysis, earnings transcripts, and user-generated research. Limited free articles; most content paywalled. |
-| **TradingView**   | ❌     | ❌       | ✔️       | ✔️      | Both        | Excellent charting. Can connect to various brokers for trading.                          |
-| **Robinhood**     | ✔️     | ✔️       | ✔️       | ✔️      | Free        | Very simple interface. Paper trading is options-only. Some premium news within the app.   |
-| **Webull**        | ✔️     | ✔️       | ✔️       | ✔️      | Free        | More features than Robinhood. Great for paper trading. Includes some premium news.        |
+| Platform          | News   | Research | Charting | Trading | Screener | Free / Paid | Comment                                                                                   |
+|-------------------|--------|----------|----------|---------|----------|-------------|-------------------------------------------------------------------------------------------|
+| **CNBC**          | ✔️     | ✔️       | ✔️       | ❌      | ❌       |    Both     | News aggregator for global markets. Paid tier isn't worth it for most users.              |
+| **Yahoo Finance** | ✔️     | ✔️       | ✔️       | ❌      | ❌       |    Both     | Better live charting during market hours. Covers more instruments than CNBC. Paid tier not essential. |
+| **Seeking Alpha** | ✔️     | ✔️       | ❌       | ❌      | ✔️       | Mostly paid | In-depth analysis, earnings transcripts, and user-generated research. Limited free articles; most content paywalled. |
+| **TradingView**   | ❌     | ❌       | ✔️       | ✔️      | ✔️       |    Both     | Excellent charting. Can connect to various brokers for trading.                          |
+| **Robinhood**     | ✔️     | ✔️       | ✔️       | ✔️      | ❌       |    Free     | Very simple interface. Paper trading is options-only. Some premium news within the app.   |
+| **Webull**        | ✔️     | ✔️       | ✔️       | ✔️      | ❌       |    Free     | More features than Robinhood. Great for paper trading. Includes some premium news.        |
+| **Zacks**         | ✔️     | ✔️       | ❌       | ❌      | ✔️       |    Both     | Sceener with easy to read buy/sell ranking. |
+| **FinViz**        | ❌     | ✔️       | ✔️       | ❌      | ✔️       |    Both     | Sceener with lots of ways to drill down but not very mobile friendly. Free version has lots of annoying ads but the data. |
+| **MarketChameleon** | ❌   | ✔️       | ✔️       | ❌      | ✔️       |    Both     | Sceener mostly used for Options. Lots of great features for free users. |
+
 
 
 ---
