@@ -181,14 +181,15 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 
 ## 📊 Technical Tools (Advanced Users)
 
-| Indicator | What It Does | Webull Setting |
+| Indicator | What It Does | Setting |
 |-----------|--------------|----------------|
-| SuperTrend | Trend direction | Factor: 21, Multiplier: 1 |
-| StochRSI | Overbought/oversold signal | Default |
-| 50/200 MA | Trend confirmation | Golden/Death Cross |
-| Heikin Ashi | Smooths candles | Change chart type |
+| SuperTrend | Measures Average True Range (ATR) within a given time frame and indicates trend direction. | Factor: 21, Multiplier: 1 |
+| Relative Strength Index (RSI) | Looks over 14-day period to tell if a security is overbought (over 70) / oversold (under 30) | Default  |
+| Stochastic Relative Strength Index (StochRSI) | Overbought (over .8) /oversold signal (under .2) that's more sensitive than RSI alone for shorter time frames. | Default  |
+| 50/200 Day Moving Average (50/200 MA) | Trend confirmation - Golden/Death Cross | Default |
+| Heikin Ashi | Smooths candles | Default |
 
-**Think of indicators as your dashboard while driving through the market.**
+**Think of indicators as your dashboard while driving through the market. Using any one indicator alone will often result in false positives. For the best probabilistic results, traders should factor in multiple indicators and pair it with economic news.**
 
 ---
 
@@ -207,6 +208,3 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 | Desktop | Webull (charts), Yahoo (research), TradingView (advanced TA) |
 
 ---
-
-> Das ist nur ein Sandkorn im Getriebe  
-> *That’s just a grain of sand in the gears* - keep learning, you're just getting started.
