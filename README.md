@@ -202,9 +202,12 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 
 ## 💻 Recommended Platforms
 
-| Type | Platforms |
-|------|-----------|
-| Mobile | Webull, CNBC, Yahoo Finance |
-| Desktop | Webull (charts), Yahoo (research), TradingView (advanced TA) |
+| Name          | News | Research | Charting | Trading | Free / Paid | Comment |  
+|---------------|------|----------|----------|---------|-------------|------------------|
+| CNBC          |  X   |     X    |     X    |    -    |    Both     | Paid isn't worth it. News aggregator for world economic and financial news. |
+| Yahoo Finance |  X   |     X    |     X    |    -    |    Both     | Paid isn't worth it, better UI for live charting data during market hours. Covers more financial instruments than CNBC. | 
+| TradingView   |  -   |     -    |     X    |    X    |    Both     | Mostly used for charting, but can be integrated to support trading with various brokers. |
+| Robinhood     |  X   |     X    |     X    |    X    |    Free     | Very simplified UI, offers paper trading for options only. Offers access to some premium news articles within the app.| 
+| Webull        |  X   |     X    |     X    |    X    |    Free     | FinTech that's better than Robinhood. Great for paper trading. Offers access to some premium news articles within the app. | 
 
 ---
