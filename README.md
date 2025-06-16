@@ -212,7 +212,7 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 | **Webull**        | ✔️     | ✔️       | ✔️       | ✔️      | ❌       |    Free     | More features than Robinhood. Great for paper trading. Includes some premium news.        |
 | **Zacks**         | ✔️     | ✔️       | ❌       | ❌      | ✔️       |    Both     | Sceener with easy to read buy/sell ranking. |
 | **FinViz**        | ❌     | ✔️       | ✔️       | ❌      | ✔️       |    Both     | Sceener with lots of ways to drill down but not very mobile friendly. Free version has lots of annoying ads but the data. |
-| **MarketChameleon** | ❌   | ✔️       | ✔️       | ❌      | ✔️       |    Both     | Sceener mostly used for Options. Lots of great features for free users. |
+| **Market Chameleon** | ❌   | ✔️       | ✔️       | ❌      | ✔️       |    Both     | Sceener mostly used for Options. Lots of great features for free users. |
 
 
 
