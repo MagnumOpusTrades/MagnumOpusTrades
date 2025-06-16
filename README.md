@@ -202,12 +202,12 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 
 ## 💻 Recommended Platforms
 
-| Name          | News | Research | Charting | Trading | Free / Paid | Comment |  
-|---------------|------|----------|----------|---------|-------------|------------------|
-| CNBC          |  X   |     X    |     X    |    -    |    Both     | Paid isn't worth it. News aggregator for world economic and financial news. |
-| Yahoo Finance |  X   |     X    |     X    |    -    |    Both     | Paid isn't worth it, better UI for live charting data during market hours. Covers more financial instruments than CNBC. | 
-| TradingView   |  -   |     -    |     X    |    X    |    Both     | Mostly used for charting, but can be integrated to support trading with various brokers. |
-| Robinhood     |  X   |     X    |     X    |    X    |    Free     | Very simplified UI, offers paper trading for options only. Offers access to some premium news articles within the app.| 
-| Webull        |  X   |     X    |     X    |    X    |    Free     | FinTech that's better than Robinhood. Great for paper trading. Offers access to some premium news articles within the app. | 
+| Platform      | News   | Research | Charting | Trading | Free / Paid | Comment                                                                                   |
+|---------------|--------|----------|----------|---------|-------------|-------------------------------------------------------------------------------------------|
+| **CNBC**          | ✔️     | ✔️       | ✔️       | ❌      | Both        | News aggregator for global markets. Paid tier isn't worth it for most users.              |
+| **Yahoo Finance** | ✔️     | ✔️       | ✔️       | ❌      | Both        | News aggregator for global markets. Better live charting during market hours than CNBC. Covers more financial instruments than CNBC. Paid tier worth it for most users. |
+| **TradingView**   | ❌     | ❌       | ✔️       | ✔️      | Both        | Excellent charting. Can connect to various brokers for trading.                          |
+| **Robinhood**     | ✔️     | ✔️       | ✔️       | ✔️      | Free        | Very simple interface. Paper trading is options-only. Some premium news within the app.   |
+| **Webull**        | ✔️     | ✔️       | ✔️       | ✔️      | Free        | More features than Robinhood. Great for paper trading. Includes some premium news.        |
 
 ---
