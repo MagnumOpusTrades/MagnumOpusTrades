@@ -197,6 +197,7 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 
 - **Pattern Day Trader Rule (PDT):** Don’t place 4+ day trades in 5 days in a margin account under $25k.
 - **Wash Sale Rule:** Can’t deduct a loss if you buy back the same stock within 30 days. Doesn't apply to retirement accounts.
+- **Sunk Cost Fallacy:** The idea that you've already lost too much and that staying in a bad trade is better because it will eventually reverse.
 
 ---
 
