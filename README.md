@@ -224,8 +224,8 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 
 ---
 YouTube
-[Tasy Trade - TastyLive](https://www.youtube.com/@tastyliveshow/videos)
-[Nathan Winklepleck, CFA](https://www.youtube.com/@NathanWinklepleckCFA/videos)
+- [Tasy Trade - TastyLive](https://www.youtube.com/@tastyliveshow/videos)
+- [Nathan Winklepleck, CFA](https://www.youtube.com/@NathanWinklepleckCFA/videos)
 
 ---
 
