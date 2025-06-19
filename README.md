@@ -1,7 +1,7 @@
 # 📘 Beginner's Guide to Investing
 
 > **Disclaimer**  
-> This material is for educational purposes only and does not constitute financial, investment, or tax advice. Always do your own research before making any financial decisions. Speak with a licensed financial advisor or tax professional for guidance tailored to your situation.
+> The following outlines the tools I use for my own research and education. I’m sharing this for educational purposes only. It’s not financial, investment, legal, or tax advice, nor a recommendation to buy or sell anything. Always double-check any information yourself, as it might not be accurate. Past results don’t guarantee future ones, and investing involves risks. For advice tailored to your situation, consult a licensed financial or tax professional.
 
 ---
 
