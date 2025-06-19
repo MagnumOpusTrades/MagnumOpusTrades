@@ -215,6 +215,26 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 | **FinViz**        | ❌     | ✔️       | ✔️       | ❌      | ✔️       |    Both     | Sceener with lots of ways to drill down but not very mobile friendly. Free version has lots of annoying ads but the data. |
 | **Market Chameleon** | ❌   | ✔️       | ✔️       | ❌      | ✔️       |    Both     | Sceener mostly used for Options. Lots of great features for free users. |
 
+---
 
+## Books
+- [Stock Investing for Dummies](https://www.amazon.com/Stock-Investing-Dummies-Paul-Mladjenovic/dp/1394254563/) - Search for the latest version
+- [Common Stocks and Uncommon Profits and Other Writings by Philip A. Fisher](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509) - (Dated, but the principales still apply)
+- [One up on Wall Street by Peter Lynch](https://www.amazon.com/One-Up-On-Wall-Street-audiobook/dp/B0000547CO) - (Dated, but the principales still apply)
 
 ---
+YouTube
+[Tasy Trade - TastyLive](https://www.youtube.com/@tastyliveshow/videos)
+[Nathan Winklepleck, CFA](https://www.youtube.com/@NathanWinklepleckCFA/videos)
+
+---
+
+## Option related tools
+- [Unusual Whales](https://unusualwhales.com/)
+- - [Unusual Whales seasonality](https://unusualwhales.com/seasonality)
+- [Market Chameleon](https://marketchameleon.com/)
+- - [Market Chameleon IV Rank example with QQQ](https://marketchameleon.com/Overview/qqq/IV/)
+- [Option Strat](https://optionstrat.com/) - Paid only
+- [Options Play](https://www.optionsplay.com/) - Paid only
+- [Flowalgo](https://flowalgo.com/) - Paid only
+- [Trade Alerts by CBOE](https://www.cboe.com/services/analytics/tradealert/individuals/) - Paid only
