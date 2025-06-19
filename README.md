@@ -223,10 +223,15 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 - [One up on Wall Street by Peter Lynch](https://www.amazon.com/One-Up-On-Wall-Street-audiobook/dp/B0000547CO) - (Dated, but the principales still apply)
 
 ---
-YouTube
-- [Tasy Trade - TastyLive](https://www.youtube.com/@tastyliveshow/videos)
+YouTube investing channels
+- [Yahoo Finance](https://www.youtube.com/@YahooFinance)
+- [CNBC](https://www.youtube.com/@CNBC)
 - [Nathan Winklepleck, CFA](https://www.youtube.com/@NathanWinklepleckCFA/videos)
-
+  
+YouTube options focused channels
+  - [Tasy Trade - TastyLive](https://www.youtube.com/@tastyliveshow/videos)
+  - [Theta Profits](https://www.youtube.com/@ThetaProfits)
+    
 ---
 
 ## Option related tools
