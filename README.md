@@ -231,9 +231,9 @@ YouTube
 
 ## Option related tools
 - [Unusual Whales](https://unusualwhales.com/)
-- - [Unusual Whales seasonality](https://unusualwhales.com/seasonality)
+  - [Unusual Whales seasonality](https://unusualwhales.com/seasonality)
 - [Market Chameleon](https://marketchameleon.com/)
-- - [Market Chameleon IV Rank example with QQQ](https://marketchameleon.com/Overview/qqq/IV/)
+  - [Market Chameleon IV Rank example with QQQ](https://marketchameleon.com/Overview/qqq/IV/)
 - [Option Strat](https://optionstrat.com/) - Paid only
 - [Options Play](https://www.optionsplay.com/) - Paid only
 - [Flowalgo](https://flowalgo.com/) - Paid only
