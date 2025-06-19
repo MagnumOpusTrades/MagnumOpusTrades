@@ -214,6 +214,7 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 | **Zacks**         | ✔️     | ✔️       | ❌       | ❌      | ✔️       |    Both     | Sceener with easy to read buy/sell ranking. |
 | **FinViz**        | ❌     | ✔️       | ✔️       | ❌      | ✔️       |    Both     | Sceener with lots of ways to drill down but not very mobile friendly. Free version has lots of annoying ads but the data. |
 | **Market Chameleon** | ❌   | ✔️       | ✔️       | ❌      | ✔️       |    Both     | Sceener mostly used for Options. Lots of great features for free users. |
+| **Portfolio123**  | ❌   | ✔️       | ✔️       | ❌      | ✔️       |    Paid     | Sceener mostly used for Options. Lots of great features for free users. [How to use P123](https://www.youtube.com/watch?v=e4u6Ow6RWEI&list=PL8GOLcNpi-Fs1xtccsV7dRoqzNBby0Lbx) |
 
 ---
 
