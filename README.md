@@ -149,6 +149,7 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 - [Granite Shares](https://graniteshares.substack.com/) <br/>
 - [Quiver Quantitative](https://quiverquant.beehiiv.com/) <br/>
 - [Stockcharts](https://stockcharts.com/newsletter/) <br/>
+- [Nasdaq pre-market](https://www.nasdaq.com/news-and-insights/topic/markets/pre-market) Review every trading day at 8:30 am EDT <br/>
 
 **Economic Calendars:**
 
