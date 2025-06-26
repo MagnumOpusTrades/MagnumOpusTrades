@@ -241,7 +241,9 @@ YouTube options focused channels
 Total Returns
  - [TotalReturns.com](https://totalrealreturns.com) Calculate and compare total returns with dividends
  - [Compounding Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator)
-   
+
+## MISC
+ - [Optimized Portfolio - Ray Dalio All Weather Portfolio](https://www.optimizedportfolio.com/all-weather-portfolio/)
 ---
 
 ## Option related tools
