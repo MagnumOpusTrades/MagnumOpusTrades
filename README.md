@@ -225,6 +225,7 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 - [One up on Wall Street by Peter Lynch](https://www.amazon.com/One-Up-On-Wall-Street-audiobook/dp/B0000547CO) - (Dated, but the principales still apply)
 
 ---
+## YouTube
 YouTube investing channels
 - [Yahoo Finance](https://www.youtube.com/@YahooFinance)
 - [CNBC](https://www.youtube.com/@CNBC)
@@ -234,6 +235,12 @@ YouTube options focused channels
   - [Tasy Trade - TastyLive](https://www.youtube.com/@tastyliveshow/videos)
   - [Theta Profits](https://www.youtube.com/@ThetaProfits)
     
+---
+
+Total Returns
+ - [TotalReturns.com](https://totalrealreturns.com) Calculate and compare total returns with dividends
+ - [Compounding Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator)
+   
 ---
 
 ## Option related tools
