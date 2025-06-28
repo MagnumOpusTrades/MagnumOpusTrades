@@ -141,6 +141,7 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 **Recommended Newsletters:**
 - [Investopedia](https://www.investopedia.com/investopedia-newsletter-opt-in-7095821) <br/>
 - [Morning Brew](https://www.morningbrew.com/daily/subscribe) <br/>
+- [Money Flows](https://moneyflows.com/solutions/individual/) Free newletter at the bottom of the page <br/>
 - [Capitol Trades (top right to subscribe)](https://www.capitoltrades.com/) <br/>
 - [Chartr +](https://sherwood.news/subscribe/) <br/>
 - [Visual Capitalist](https://www.visualcapitalist.com/subscribe) <br/>
