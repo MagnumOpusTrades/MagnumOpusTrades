@@ -80,6 +80,8 @@ Understanding these basics will make you a smarter investor.
 | **K-1 Form** | A tax document some of these ETFs issue instead of a standard 1099 | K-1s are more complex and can delay tax filing, but they come with the benefit of more favorable tax treatment |
 | **SEC 10-K Filing** | An annual report that public companies must file with the SEC, detailing financial performance, risks, and operations | It's one of the most detailed sources of information about a company's business and financial health |
 | **SEC 8-K Filing** | A report companies file to announce major events (e.g., earnings releases, leadership changes, mergers) | Gives timely insight into news that may significantly affect a company’s stock price |
+| **Golden Cross** | Chart pattern when the short term moving average (MA) (e.g. 50-day) crosses **above** the long-term MA (e.g. 200 day) | This indicates a bullish breakout. |
+| **Death Cross** | Chart pattern when the short term moving average (MA) (e.g. 50-day) crosses **below** the long-term MA (e.g. 200 day) | This indicates a bearish breakout. |
 
 ---
 
