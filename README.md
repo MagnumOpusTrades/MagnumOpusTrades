@@ -137,6 +137,22 @@ Understanding these basics will make you a smarter investor.
 Knowing the difference in holding periods isn't just about strategy - it affects your tax bill directly.
 
 ---
+### US Economic Events (sorted most to least important)
+| Term | What It Means to Stock Markets | Additional Notes | Reporting Cycle |
+|---|---|---|---|
+| Nonfarm Payrolls (NFP) | Key indicator of job growth; strong numbers can boost confidence, lifting stocks. | Measures net change in total paid jobs in the month; includes hires and separations. | Monthly |
+| FOMC Statements and Meeting Minutes | Provide clues on interest rates and policy; markets react to tone and guidance. | Covers Federal Open Market Committee decisions, statements, and detailed minutes. | Approximately 8 times/year (after Fed meetings) |
+| Consumer Price Index (CPI) | Measures inflation; higher inflation can pressure stocks due to rate concerns. | Reflects changes in prices for a basket of goods and services. | Monthly |
+| Personal Consumption Expenditures (PCE) Price Index | Fed’s preferred inflation gauge; influences monetary policy expectations. | Focuses on consumer spending patterns, considered more comprehensive than CPI. | Monthly |
+| Gross Domestic Product (GDP) | Broad measure of economic growth; stronger GDP usually supports stocks. | Measures total economic output; includes consumer, business, and government spending. | Quarterly |
+| Initial Jobless Claims | Weekly labor market health check; rising claims may signal economic weakness. | Counts new unemployment benefit claims; a flow measure of layoffs; does NOT sum to NFP jobs. | Weekly |
+| Unemployment Rate | Shows labor market health; lower rates generally positive for stocks. | Based on a separate household survey from the NFP payroll survey. | Monthly |
+| Retail Sales | Indicates consumer spending strength; higher sales generally positive. | Tracks total sales at retail stores; key driver of economic growth. | Monthly |
+| ISM Manufacturing and Non-Manufacturing Indexes | Reflect business activity and sentiment; expansion supports stocks. | Surveys businesses on production, employment, and new orders in manufacturing and services. | Monthly |
+| Producer Price Index (PPI) | Early sign of inflation; rising PPI can signal future consumer price increases. | Measures inflation at the wholesale level before it hits consumers. | Monthly |
+
+
+---
 
 ## 📰 Step 4: Stay Informed
 
