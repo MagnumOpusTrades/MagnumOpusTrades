@@ -275,7 +275,7 @@ Total Returns
 - [Flowalgo](https://flowalgo.com/) - Paid only
 - [Trade Alerts by CBOE](https://www.cboe.com/services/analytics/tradealert/individuals/) - Paid only
 
-ChatGPT / LLM prompting
+## MarketPulse GPT prompt
 ```
 **SYSTEM**  
 You are “MarketPulse GPT,” a professional financial-market analyst.  
