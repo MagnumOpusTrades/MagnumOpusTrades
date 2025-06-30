@@ -318,3 +318,14 @@ Your job is to digest the most impactful news, data releases, tariff headlines/a
 Generate today’s MarketPulse GPT report. Assume **today is ALL‑CAP‑TODAY‑DATE** and U.S. markets are closed for the day. 
 
 ```
+
+## Individual stock analysis (run after MarketPulse GPT
+```
+Analyze the financial performance of [INSERT TICKER].
+
+1. Summarize the company's key financials from the past three years (e.g., revenue, net income, earnings per share, debt, and cash flow). Identify and explain any significant trends.
+2. Conduct a technical analysis of the stock's price chart. Highlight current key support and resistance levels, and discuss recent price action.
+3. Suggest a few actionable trading strategies or "stock plays" for this ticker, each with a rationale and estimated probability of success based on your analysis.
+
+Format your response in clear, numbered sections.
+```
