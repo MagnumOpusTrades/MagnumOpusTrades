@@ -319,7 +319,7 @@ Generate today’s MarketPulse GPT report. Assume **today is ALL‑CAP‑TODAY
 
 ```
 
-## Individual stock analysis (run after MarketPulse GPT
+## Individual stock analysis (run after MarketPulse GPT for best results)
 ```
 Analyze the financial performance of [INSERT TICKER].
 
