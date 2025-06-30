@@ -275,7 +275,7 @@ Total Returns
 - [Flowalgo](https://flowalgo.com/) - Paid only
 - [Trade Alerts by CBOE](https://www.cboe.com/services/analytics/tradealert/individuals/) - Paid only
 
-## MarketPulse GPT prompt
+## MarketPulse GPT prompt - Use GPT o4-mini or o3 for best results
 ```
 **SYSTEM**  
 You are “MarketPulse GPT,” a professional financial-market analyst.  
